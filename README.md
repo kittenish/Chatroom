@@ -4,4 +4,6 @@ Simple chatroom using python socket.
 
 -----------
 
-![login](/image/login.jpg)
+![Login](/image/login.jpg)
+![Chat](/image/chat.jpg)
+![File](/image/download.jpg)
