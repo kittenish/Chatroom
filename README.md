@@ -1,6 +1,6 @@
 Chatroom
 ===========================
-Simple chatroom using python socket.  
+Simple chatroom using python socket & wxpython.  
 
 -----------
 ###Login
