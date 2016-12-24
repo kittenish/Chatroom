@@ -1,4 +1,16 @@
-# Chatroom
+Chatroom
+===========================
 Simple chatroom using python socket.  
-***  
-![login](/image/login.jpg)
+
+-----------
+###Login
+
+  ![Login](/image/login.jpg)
+
+###Chat
+
+  ![Chat](/image/chat.jpg)
+
+###Download File
+
+  ![File](/image/download.jpg)
